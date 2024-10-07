@@ -1,0 +1,349 @@
+    1  cd C:\Users\14088\OneDrive\Documents\CS131\Assignment\CS131_fa24_datafiles\Lec02
+    2  pwd
+    3  vim goodluck.txt
+    4  cd C:\Users\14088\OneDrive\Documents\CS131\Assignment\CS131_fa24_datafiles\Lec02
+    5  cd Users\14088\OneDrive\Documents\CS131\Assignment\CS131_fa24_datafiles\Lec02
+    6  cd ..
+    7  cd
+    8  cd..
+    9  cd ..
+   10  cat goodluck.txt
+   11  cd
+   12  pwd
+   13  cd /home/emily/documents
+   14  cd /home
+   15  cd /home/Documents
+   16  cd /personal
+   17  cd /CS131/
+   18  ls
+   19  pwd
+   20  ls
+   21  cd /Documents/
+   22  cd Documents
+   23  ls
+   24  vim
+   25  ls
+   26  cd Documents
+   27  ls
+   28  cd ..
+   29  ls
+   30  cd My Documents
+   31  ls
+   32  cd CS131
+   33  cd ..
+   34  cd Downloads
+   35  ls
+   36  cd
+   37  ls
+   38  pwd
+   39  cd OneDrive
+   40  ls
+   41  cd Documents\CS131\Assignment\CS131_fa24_datafiles\Lec02
+   42  cd Documents
+   43  cd CS131/Assignment
+   44  cd CS131_fa24_datafiles/Lec02
+   45  ls
+   46  cat goodluck.txt
+   47  vim goodluck.txt
+   48  cd Users/14088/OneDrive/Documents/CS131/Activity/Emily_A4_Shell
+   49  cd OneDrive
+   50  cd Documents
+   51  cd CS131
+   52  cd Activity
+   53  cd Emily_A4_Shell
+   54  ls
+   55  vi classpractice.sh
+   56  vi  classpractice.sh
+   57  vim classpractice.sh
+   58  vim -r classpractice.sh
+   59  sh class_practice.sh Emily
+   60  sh classpractice.sh <Your name>
+   61  $ vim classpractice.sh
+   62  vim classpractice.sh
+   63  vim -r classpractice.sh
+   64  vim classpractice
+   65  ls
+   66  vim classpractice.sh
+   67  vim -r classpractice.sh
+   68  echo $sum
+   69  echo sum
+   70  vim -r classpractice.sh
+   71  vim classpractice.sh
+   72  cd
+   73  cd HOME
+   74  cd home
+   75  cd ~
+   76  ls
+   77  pwd
+   78  cd Users
+   79  cd mnt
+   80  cd windows
+   81  ls
+   82  cd OneDrive
+   83  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+   84  vi ~/.vimrc
+   85  cd OneDrive
+   86  ls
+   87  cd Documents
+   88  ls
+   89  cd CS131
+   90  ls
+   91  cd Activity
+   92  ls
+   93  cd Emily_A4_Shell
+   94  ls
+   95  vim classpractice.sh
+   96  vim classpractice.sh.swp
+   97  1 Stopped
+   98  Stopped vim classpractice.sh.swp
+   99  vim classpractice.sh.swp
+  100  vim classpractice.sh
+  101  echo $sum
+  102  vim classpractice.sh
+  103  cat classpractice.sh
+  104  cd OneDrive
+  105  cd Documents
+  106  cd CS131
+  107  cd LuFI_A4
+  108  vi test.sh
+  109  sh test.sh Bob
+  110  vi test.sh
+  111  sh test.sh Bob
+  112  sh test.sh <Bob>
+  113  vi test.sh
+  114  sh test.sh Bob
+  115  ./test.sh bob
+  116  sh test.sh bob
+  117  sh bob
+  118  vi test.sh
+  119  sh test.sh bob
+  120  vi test.sh
+  121  sh test.sh bob lla
+  122  vi test.sh
+  123  sh test.sh bob lla
+  124  vi test.sh
+  125  sh test.sh bob lla
+  126  vi test.sh
+  127  sh test.sh bob
+  128  sh
+  129  cd OneDrive
+  130  cd Documents
+  131  cd CS131
+  132  cd LuFI_A4
+  133  vi test.sh
+  134  sh test.sh bob
+  135  vi test.sh
+  136  sh test.sh
+  137  vi test.sh
+  138  sh test.sh
+  139  sh test.sh Violet Smith
+  140  vi test.sh
+  141  sh test.sh
+  142  vi test.sh
+  143  sh test.sh
+  144  vi test.sh
+  145  sh test.sh
+  146  vi test.sh
+  147  sh test.sh
+  148  vi test.sh
+  149  sh test.sh
+  150  vi test.sh
+  151  sh test.sh
+  152  vi test.sh
+  153  sh test.sh
+  154  vi test.sh
+  155  sh test.sh
+  156  vi test.sh
+  157  sh test.sh
+  158  vi test.sh
+  159  sh test.sh
+  160  vi test.sh
+  161  sh test.sh
+  162  vi test.sh
+  163  sh test.sh
+  164  vi test.sh
+  165  sh test.sh
+  166  echo "6/5" | bc
+  167  sudo apt install bc
+  168  echo "6/5" | bc
+  169  sh test.sh
+  170  vi test.sh
+  171  $printenv
+  172  printenv
+  173  pwd
+  174  my_varaible=”Hello, I am your variable”
+  175  echo $my_variable
+  176  $my_varaible=”Hello, I am your variable”
+  177  $my_varaible = ”Hello, I am your variable”
+  178  ls_a
+  179  ls
+  180  HOME/.bash_login
+  181  $vi ~/.bash_profile
+  182  vi ~/.bash_profile
+  183  vi ~/.bashrc
+  184  la
+  185  source ~/.bashrc
+  186  vi ~/.bashrc
+  187  source ~/.bashrc
+  188  la
+  189  vi ~/.bashrc
+  190  cd OneDrive
+  191  cd CS131
+  192  ls
+  193  cd Documents
+  194  cd CS131
+  195  cd LuFI_A4
+  196  vi schoing.sh
+  197  who
+  198  date
+  199  HOME
+  200  $HOME
+  201  $USER
+  202  vi echoing.sh
+  203  sh echoing.sh date who
+  204  date
+  205  vi echoing.sh
+  206  sh echoing.sh
+  207  vi echoing.sh
+  208  sh echoing.sh
+  209  vi echoing.sh
+  210  vi echoing.sh $date $who
+  211  vi echoing.sh
+  212  sh echoing.sh $date $who
+  213  vi echoing.sh
+  214  sh echoing.sh
+  215  vi echoing.sh
+  216  sh echoing.sh
+  217  vi echoing.sh
+  218  sh echoing.sh Emily 0
+  219  vi echoing.sh
+  220  sh echoing.sh Emily 0
+  221  vi echoing.sh
+  222  sh echoing.sh Emily 0
+  223  vi echoing.sh
+  224  sh echoing.sh Emily 0
+  225  vi echoing.sh
+  226  sh echoing.sh
+  227  vi echoing.sh
+  228  sh echoing.sh Emily 0
+  229  vi echoing.sh
+  230  sh echoing.sh Emily 0
+  231  vi echoing.sh
+  232  sh echoing.sh Emily 0
+  233  vi echoing.sh
+  234  sh echoing.sh Emily 0
+  235  vi echoing.sh
+  236  sh echoing.sh Emily 0
+  237  vi echoing.sh
+  238  sh echoing.sh Emily 0
+  239  vi echoing.sh
+  240  sh echoing.sh Emily 0
+  241  sh echoing.sh
+  242  vi echoing.sh
+  243  sh echoing.sh Emily 0
+  244  vi echoing.sh
+  245  sh echoing.sh Emily 0
+  246  vi echoing.sh
+  247  sh echoing.sh Emily 0
+  248  vi echoing.sh
+  249  sh echoing.sh Emily 0
+  250  vi echoing.sh
+  251  sh echoing.sh Emily 0
+  252  vi echoing.sh
+  253  sh echoing.sh Emily 0
+  254  vi echoing.sh
+  255  sh echoing.sh Emily 0
+  256  vi echoing.sh
+  257  sh echoing.sh Emily 0
+  258  vi echoing.sh
+  259  sh echoing.sh Emily 0
+  260  vi echoing.sh
+  261  sh echoing.sh Emily 0
+  262  vi echoing.sh
+  263  sh echoing.sh Emily 0
+  264  vi echoing.sh
+  265  sh echoing.sh Emily 0
+  266  vi echoing.sh
+  267  sh echoing.sh Emily 0
+  268  vi echoing.sh
+  269  man bc
+  270  man bc.
+  271  man ls
+  272  vi echoing.sh
+  273  sh echoing.sh Emily 0
+  274  vi echoing.sh
+  275  sh echoing.sh Emily 0
+  276  vi echoing.sh
+  277  sh echoing.sh Emily 0
+  278  vi echoing.sh
+  279  sh echoing.sh Emily 0
+  280  vi echoing.sh
+  281  sh echoing.sh Emily 0
+  282  vi echoing.sh
+  283  sh echoing.sh Emily 0
+  284  vi echoing.sh
+  285  sh echoing.sh Emily 0
+  286  vi echoing.sh
+  287  sh echoing.sh Emily 0
+  288  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-Emily0107
+  289  git clone git@github.com: https://github.com/CS131-BigDataProcessing/mini-assignments-Emily0107.git
+  290  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-Emily0107.git
+  291  git add LuFI_A4
+  292  cd..
+  293  cd ..
+  294  git add LuFI_A4
+  295  cd mini-assignments-Emily0107
+  296  git add LuFI_A4
+  297  git commit -m "Emily added to collaborators"
+  298  git push
+  299  git clone https://github.com/Emily0107/CS131-BigDataProcessing/mini-assignments-Emily0107
+  300  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-Emily0107.git
+  301  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-Emily0107.git
+  302  git add LuFI_A4
+  303  git commit -m "Emily Lu added to echoing.sh"
+  304  git push
+  305  ssh emily0107@172.20.25.9
+  306  cd OneDrive/Documents/CS131/Assignment/CS131_fa24_datafiles/Lec02$
+  307  cd OneDrive/Documents/CS131/Assignment/CS131_fa24_datafiles/Lec02
+  308  grep -o '\bQ\w*'
+  309  cd OneDrive/Documents/CS131
+  310  git clone  https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles
+  311  cd Assignment
+  312  cd CS131_fa24_datafiles
+  313  cd Lec02
+  314  cat goodluck.txt
+  315  vi goodluck.txt
+  316  grep wor goodluck.txt
+  317  grep -o "wor" goodluck.txt
+  318  grep wor goodluck.txt
+  319  fgrep wor goodluck.txt
+  320  egrep wor goodluck.txt
+  321  egrep wor goodluck.txt > LuE_a2_counts.txt
+  322  grep -o '\bwor\w*'
+  323  cd OneDrive
+  324  cd Documents
+  325  cd CS131
+  326  cd Assignment
+  327  cd CS131_fa24_datafiles
+  328  cd Lec02
+  329  grep dred goodluck.txt
+  330  grep dred goodluck.txt >> LuE_a2_counts.txt
+  331  vi  LuE_a2_counts.txt
+  332  grep -o "Good luck, babe " goodluck.txt
+  333  grep -o "Good luck, babe " goodluck.txt >> LuE_a2_counts.txt
+  334  vi  LuE_a2_counts.txt
+  335  grep -c "Good luck, babe " goodluck.txt
+  336  grep -c "Good luck, babe " goodluck.txt >> LuE_a2_counts.txt
+  337  vi  LuE_a2_counts.txt
+  338  wc "Good luck, babe " goodluck.txt
+  339  wc goodluck.txt
+  340  wc grep -c "Good l
+uck, babe " goodluck.txt
+  341  wc grep "good" goodluck.txt
+  342  grep -c "Good luck, babe " goodluck.txt | wc
+  343  grep -c "Good luck, babe " goodluck.txt
+  344  grep -o "Good luck, babe " goodluck.txt
+  345  grep -o "Good luck, babe " goodluck.txt | wc
+  346  grep -o "Good luck, babe " goodluck.txt | wc >> LuE_a2_counts.txt
+  347  vi  LuE_a2_counts.txt
+  348  history > Lu-E_a2_cmds.log

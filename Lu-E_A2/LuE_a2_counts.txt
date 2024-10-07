@@ -1,0 +1,50 @@
+1. Find the words that starts with "wor"
+
+Below were the results after running $grep wor goodluck.txt
+Command window highlighted "wor" in word "world" as result
+
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+
+2. Find the words that contains the character “dred” in it
+
+Below were the results after running $grep dred goodluck.tx
+Results highlighted the "dred" part in the word "hundred"
+
+You can kiss a hundred boys in bars
+You can kiss a hundred boys in bars
+You can kiss a hundred boys in bars
+
+3. Grep for only the lines "Good luck, babe "
+Below were the results after running $grep -o "Good luck, babe " goodluck.txt
+Everything match with the term we've searched and were all highlited when the results were printed
+
+Good luck, babe 
+Good luck, babe 
+Good luck, babe 
+Good luck, babe 
+Good luck, babe 
+Good luck, babe 
+
+4. Find the line counts and word counts (using wc) in step 3
+Below was the result after running $grep -c "Good luck, babe " goodluck.txt
+The result stands for the number of line that match with the term we looking for (ie. there are 6 lines containing the term "Good luck, babe ")
+
+6
+
+However, the result after running  $grep -c "Good luck, babe " goodluck.txt | wc gives the following result, where the first integer (6) represents total of 6 lines, second integer (18) represents total of 18 words in the result presented in question #3, and the last integer (102) represents the total number of characters.
+
+      6      18     102
+
+
+
+
+
+
