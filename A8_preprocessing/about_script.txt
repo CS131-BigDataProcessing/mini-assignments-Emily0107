@@ -1,0 +1,5 @@
+We identify missing value by using a for loop to check all fields and print out the position of missing value
+
+We then decide to remove missing values to reduce the size of data set and to also remove duplicate entires
+
+Finally we identify outliers by using formula: Upper bound for outliers: Q3 + 1.5 * IQR
